@@ -66,9 +66,9 @@
 
 #### 3.Get all the users names whose first character in their login is ‘g’.
 #### 4.Get the logins name and full names (comment) of logins starts with “g”.
-#### 5.Save the output of the last command sorted by their full names in a file.
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/3%2C4%2C5.png)
-
+#### 5.Save the output of the last command sorted by their full names in a file.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/5.png)
 
 #### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/6.png)
@@ -87,10 +87,8 @@
 #### 12. Resume the last command in the background
 #### 13. Issue the jobs command and see its output.
 #### 14. Send the sleep command to the foreground and send it again to the background.
-![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/10%2C11%2C12%2C13%2C14.png)
-
 #### 15. Kill the sleep command.
-![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/15.png)
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/10%2C11%2C12%2C13%2C14%2C15.png)
 
 #### 16. Display your processes only
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/16.png)

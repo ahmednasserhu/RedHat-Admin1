@@ -1,5 +1,61 @@
 # RedHat-Admin1
 
+## lab3
+
+### 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school,college, experience,...
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/1.png)
+
+### 2. Open mycv file using vi command then: Without using arrows state how to:
+#### a. Move the cursor down one line at time.
+##### j
+#####
+#### b. Move the cursor up one line at time.
+##### k
+#####
+#### c. Search for word age
+##### /age
+#####
+#### d. Step to line 5 ().
+##### :5
+#####
+#### e. Delete the line you are on and line 5.
+#####  to delete the current line, type dd.
+####   to move to line 5, type :5 and press Enter.
+####   to delete line 5, type dd.
+#####
+#### f. How to step to the end of line and change to writing mode in one-step.
+#####  $
+#####
+
+### 3. List the available shells in your system.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/3.png)
+
+### 4. List the environment variables in your current shell.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/4.png)
+
+### 5. List all of the environment variables for the bash shell.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/5.png)
+
+### 6. What are the commands that list the value of a specific variable?
+#### you can use echo $ENV_VARIABLE or printenv ENV_VARIABLE
+
+### 7. Display your current shell name.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/7.png)
+
+### 8.. State the initialization files of: sh, ksh, bash.
+####    /etc/profile (system-wide)
+####     ~/.bash_profile or ~/.bash_login or ~/.profile (user-specific, only the first one found is executed)
+####     ~/.bashrc (sourced by interactive non-login shells)
+
+### 9.Edit in your profile to display date at login and change your prompt permanently.
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/9.png)
+
+### 10.Execute the following command :
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/10.png)
+
+### 11.Create a Bash shell alias named ls for the “ls –l” command
+![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/11.png)
+
 ### lab 4
 
 #### 1.List the user commands and redirect the output to /tmp/commands.list

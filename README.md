@@ -56,7 +56,7 @@
 ### 11.Create a Bash shell alias named ls for the “ls –l” command
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB3/11.png)
 
-### lab 4
+## lab 4
 
 #### 1.List the user commands and redirect the output to /tmp/commands.list
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/1.png)
@@ -105,7 +105,7 @@
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB4/19.png)
 
 
-### lab5
+## lab5
 #### 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands.
 ![UNFOUND](https://github.com/ahmednasserhu/RedHat-Admin1/blob/main/LAB5/1.png)
 
